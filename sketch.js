@@ -10,7 +10,7 @@ var box11,box12,box13,box14,box15,box16,box17,box18,box19,box20;
 var polygon,slingshot,polygonImg;
 
 function preload(){
-  polygonImg = loadImage("image/polygon.jpg");
+  polygonImg = loadImage("polygon.jpg");
 }
 function setup() {
   var canvas = createCanvas(1250,700);
